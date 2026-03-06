@@ -43,6 +43,16 @@ chmod +x process_data.sh
 ```
 4. Verification: Check the``` /output``` prefix in S3 for the generated CSV reports.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b3b5b1d5-38a5-4ab4-93d4-bb106fe111bb" width="700" />
+  <br>
+  <img src="https://github.com/user-attachments/assets/b8b0ed7e-5813-4a84-bf93-9ee9cc490833" width="700" />
+  <br>
+  <img src="https://github.com/user-attachments/assets/72696731-efd1-43f6-b34c-cb97743b2493" width="700"  />
+</div>
+
+
+
 ## 📂 Repository Structure
 ```
 .
