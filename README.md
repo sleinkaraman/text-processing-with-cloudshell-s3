@@ -68,11 +68,7 @@ chmod +x process_data.sh
 
 ## 🧠 Key Outcomes
 - Automated Data Pipeline: Successfully implemented a complete ETL (Extract, Transform, Load) workflow, reducing manual data processing time through Bash automation.
-
 - Infrastructure Consistency: Demonstrated the use of AWS CloudShell as a standardized, ephemeral environment to eliminate "it works on my machine" inconsistencies.
-
 - High-Performance Text Processing: Utilized AWK's associative arrays for efficient memory-based data aggregation, bypassing the need for traditional SQL overhead for rapid analysis.
-
 - Structured Data Lifecycle: Established a clean data governance pattern using S3 prefixes (```/input```, ```/output```) for organized data lake management.
-
 - Scalability & Resilience: Designed scripts to handle dynamic resource naming and region-specific configurations for cross-region compatibility.
